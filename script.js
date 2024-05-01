@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "Q. What does HTML stand for?",
+        question: "What does HTML stand for?",
         answer: [
             {text: "Hyper Tag Markup Language", correct: false},
             {text: "Hyper Text Markup Language", correct: true},
@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question: "Q. Where should a CSS file be referenced in a HTML file?",
+        question: "Where should a CSS file be referenced in a HTML file?",
         answer: [
             {text: "Before any HTML code", correct: false},
             {text: "After all HTML code", correct: false},
@@ -18,7 +18,7 @@ const questions = [
         ]
     },
     {
-        question: "Q. Which of these is a genuine tag keyword?",
+        question: "Which of these is a genuine tag keyword?",
         answer: [
             {text: "Header", correct: false},
             {text: "Bold", correct: false},
@@ -27,7 +27,7 @@ const questions = [
         ]
     },
     {
-        question: "Q. What does CSS stand for?",
+        question: "What does CSS stand for?",
         answer: [
             {text: "Computing Style Sheet", correct: false},
             {text: "Creative Style System", correct: false},
@@ -36,14 +36,14 @@ const questions = [
         ]
     },
     {
-        question: "Q. A CSS file can be applied to only one HTML file.",
+        question: "A CSS file can be applied to only one HTML file.",
         answer: [
             {text: "True", correct: false},
             {text: "False", correct: true},
         ]
     },
     {
-        question: "Q. What is the correct format for a div?",
+        question: "What is the correct format for a div?",
         answer: [
             {text: "Div-id=example", correct: false},
             {text: "Div id=example", correct: true},
